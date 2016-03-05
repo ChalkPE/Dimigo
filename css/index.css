@@ -4,3 +4,28 @@
 * {
     font-family: 'Ubuntu', 'Roboto', 'Noto Sans KR', sans-serif;
 }
+
+.ff {
+    padding: 0 0.4rem 0 0.4rem;
+}
+
+.ff h4 {
+    margin: 0.8rem 0 0.8rem 0;
+}
+
+.gg {
+    padding: 0px;
+    padding-bottom: 1.3rem;
+}
+
+.gg h2 {
+    margin: 1.3rem 0 1.3rem 0;
+}
+
+body {
+    margin-bottom: 4rem;
+}
+
+nav {
+    margin-bottom: 1rem;
+}
