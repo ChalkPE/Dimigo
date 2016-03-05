@@ -1,31 +1,40 @@
-@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+@import url(https://cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/nanumbarungothic.css);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:300,300italic,400,400italic,500,500italic,700,700italic);
 
 * {
-    font-family: 'Ubuntu', 'Roboto', 'Noto Sans KR', sans-serif;
+    font-family: 'Ubuntu', '나눔바른고딕', 'NanumBarunGothic', 'Nanum Barun Gothic', sans-serif;
+}
+
+h4 {
+    margin: 0.9rem 0 0.9rem 0;
 }
 
 .ff {
     padding: 0 0.4rem 0 0.4rem;
 }
 
-.ff h4 {
-    margin: 0.8rem 0 0.8rem 0;
-}
-
 .gg {
     padding: 0px;
-    padding-bottom: 1.3rem;
+    padding-bottom: 1.1rem;
 }
 
 .gg h2 {
-    margin: 1.3rem 0 1.3rem 0;
+    margin: 1.1rem 0 1.1rem 0;
+}
+
+.hh {
+    padding: 1.2rem 0 1.2rem 0;
 }
 
 body {
-    margin-bottom: 4rem;
+    padding-bottom: 2rem;
 }
 
 nav {
     margin-bottom: 1rem;
+}
+
+table {
+    margin: 0 auto;
+    width: 90%;
 }
