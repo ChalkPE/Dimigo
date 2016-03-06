@@ -16,7 +16,7 @@ $(function(){
     $('.mdi.mdi-math-compass')    .addClass('light-green-text text-darken-2');  //기초제도
     $('.mdi.mdi-vector-combine')  .addClass('pink-text text-lighten-2');        //그래픽 A
     $('.mdi.mdi-history')         .addClass('deep-purple-text text-darken-1');  //한국사
-    $('.mdi.mdi-flask')          .addClass('teal-text text-lighten-2');        //과학
+    $('.mdi.mdi-flask')           .addClass('teal-text text-lighten-2');        //과학
     $('.mdi.mdi-dribbble')        .addClass('red-text text-darken-4');          //운동
     $('.mdi.mdi-palette')         .addClass('deep-orange-text text-lighten-1'); //미술
     $('.mdi.mdi-briefcase')       .addClass('brown-text text-darken-2');        //진로
