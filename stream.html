@@ -6,28 +6,26 @@
         <meta name="viewport" content="width=device-width, user-scalable=no">
     </head>
     <body>
-        <div id="text"></div>
+        <div id="logs"></div>
         <script charset="utf-8" src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
         <script charset="utf-8" src="js/stream.js"></script>
         <script type="text/javascript">
             $(function(){
-                function log(text){
-                    $('<p>').text(text).appendTo($('#text'));
-                }
+                var log = text => $('<p>').text(text).appendTo($('#logs'));
 
-                log(new Stream([-1, 0, 1, 2, 3, 4, 5, 6, 7])
-                    .peek(function(i){ console.log("A: " + i); })
-                    .filter(function(i){ return i > 4; })
-                    .peek(function(i){ console.log("B: " + i); })
-                    .map(function(i){ return i * i; })
-                    .peek(function(i){ console.log("C: " + i + '\n.'); })
-                    .toArray());
+                log(Stream.of(-1, 0, 1, 2, 3, 4, 5, 6, 7)
+                          .filter(i => i > 4)
+                          .peek(i => console.log(i))
+                          .map(i => i * i)
+                          .toArray());
 
-                log(new Stream([0, 2, 4, 6]).allMatch(function(i){ return i > 1; }));
+                log(Stream.of(0, 2, 4, 6).allMatch(i => i > 1));
 
-                new Stream([0, -15, -30, -45, -60, -75, -90])
-                .map(function(d){ return d * Math.PI / 180; })
-                .map(Math.sin).map(Math.abs).forEach(log);
+                Stream.of(0, -15, -30, -45, -60, -75, -90)
+                      .map(d => d * Math.PI / 180)
+                      .map(Math.sin)
+                      .map(Math.abs)
+                      .forEach(log);
             });
         </script>
     </body>
