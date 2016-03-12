@@ -4,7 +4,7 @@ function Stream(items){
 }
 
 Stream.prototype = {
-    get: function(i){
+    __get: function(i){
         var item = this.items[i];
         if(item === undefined) return;
 
@@ -17,7 +17,7 @@ Stream.prototype = {
     },
     forEach: function(f){
         for(var i = 0; i < this.items.length; i++){
-            var item = this.get(i);
+            var item = this.__get(i);
             if(item !== undefined && f(item) === true) break;
         }
     },

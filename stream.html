@@ -15,11 +15,20 @@
 
                 log(Stream.of(-1, 0, 1, 2, 3, 4, 5, 6, 7)
                           .filter(i => i > 4)
-                          .peek(i => console.log(i))
+                          .peek(log)
                           .map(i => i * i)
                           .toArray());
 
-                log(Stream.of(0, 2, 4, 6).allMatch(i => i > 1));
+                log(Stream.of(+[], -[], [] + [], {} + [], [] * [], [] ^ {}).allMatch(i => !i));
+
+                log(Stream.of(1, 7, 14, 31)
+                          .map(i => i - 2)
+                          .map(Math.sqrt)
+                          .anyMatch(isNaN));
+
+                log(Stream.of("ASDF", "ChalkPE", "EE!")
+                          .filter(s => s > 'D')
+                          .noneMatch(s => s.startsWith('C')));
 
                 Stream.of(0, -15, -30, -45, -60, -75, -90)
                       .map(d => d * Math.PI / 180)
