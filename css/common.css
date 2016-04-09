@@ -1,0 +1,14 @@
+@import url(https://cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/nanumbarungothic.css);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,300italic,400,400italic,500,500italic,700,700italic);
+
+* {
+    font-family: 'Ubuntu', '나눔바른고딕', 'NanumBarunGothic', 'Nanum Barun Gothic', sans-serif;
+}
+
+body {
+    padding-bottom: 2rem;
+}
+
+nav {
+    margin-bottom: 1rem;
+}
