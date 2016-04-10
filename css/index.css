@@ -1,3 +1,9 @@
 .grid-item {
     min-width: 256px;
 }
+
+.dimigo {
+    width: 22px; height: 22px;
+    margin-right: 6px; margin-bottom: 3px;
+    vertical-align: text-bottom;
+}
