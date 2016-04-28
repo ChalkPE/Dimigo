@@ -1,13 +1,3 @@
-#sketch {
-    position: relative;
-}
-
-#sketch canvas {
-    position: absolute;
-}
-
 body {
     background-color: #ccc;
-    margin: 0;
-    padding: 0;
 }

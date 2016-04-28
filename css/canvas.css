@@ -1,0 +1,12 @@
+#sketch {
+    position: relative;
+}
+
+#sketch canvas {
+    position: absolute;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
