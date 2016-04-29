@@ -245,3 +245,14 @@
 | 특징 | 장점 | 단점 |
 | :-: | :-: | :-: |
 | LAN 시스템에서 가장 일반적으로 사용됨 | 저렴함 | 노드 수·전송량 多 → 충돌 多 → 데이터 손실 발생 多 |
+
+##### (나) CSMA/CA _Carrier Sense Multiple Access/Collision Avoidance_
+- **CSMA/CA**: 무선 LAN에서 사용; CSMA/CD와 유사, 충돌 대응 다름
+- 무선 네트워크에서는 충돌 감지 불가한 경우 많음 → CSMA/CA 통해 확률적으로 충돌 회피
+
+| 송신 측 | ↔ | 수신 측 | 설명 |
+| :---: | :-: | :---: | :---: | :---: |
+| RTS _Request To Send_ | → | ↓ 수신 측 ↓ | 목적지, 송신 측 주소, 데이터 크기 등의 정보 |
+| ↓ 송신 측 ↓ | ← | CTS _Clear To Send_ | 정보를 받을 준비가 됨 |
+| 정보 _DATA_ | → | ↓ 수신 측 ↓ | |
+| 끝 | ← | ACK _Acknowledge character_ | 정보 수신 후 보내는 응답 문자 |
