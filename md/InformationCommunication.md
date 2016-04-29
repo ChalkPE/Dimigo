@@ -1,6 +1,82 @@
 # 고1 정보통신 1학기 1차 지필고사 요약
 한국디지털미디어고등학교 15기 1학년 4반 박준영
 
+## 목차 _Table of contents_
+- [고1 정보통신 1학기 1차 지필고사 요약](#1-1-1-)
+	- [목차 _Table of contents_](#-table-of-contents)
+	- [라이선스 _License_](#-license)
+	- [제I부 정보 통신의 개요](#i-)
+		- [Section 01 정보통신의 발달](#section-01-)
+			- [(1) 통신의 개념](#1-)
+			- [(2) 통신 모형과 기능](#2-)
+			- [~~(3) 정보 통신과 정보 사회~~](#3-)
+			- [(4) 표준화와 표준화 기구](#4-)
+		- [Section 02 통신 프로토콜과 OSI 참조 모델](#section-02-osi-)
+			- [(1) 통신 프로토콜의 개요](#1-)
+			- [~~(2) 계층형 네트워크 구조~~](#2-)
+			- [(3) 프로토콜의 기능](#3-)
+			- [(4) OSI 참조 모델](#4-osi-)
+		- [Section 03 정보 통신망의 형태](#section-03-)
+			- [(1) 정보 통신망의 개요](#1-)
+			- [(2) 정보 통신망의 주요 기술](#2-)
+			- [(3) 정보 통신망의 구성 형태](#3-)
+				- [(가) 버스형 _Bus type_](#-bus-type)
+				- [(나) 고리형 _Ring type_](#-ring-type)
+				- [(다) 그물형 _Mesh type_](#-mesh-type)
+				- [(라) 성형 _Star type_](#-star-type)
+				- [(마) 나무형 _Tree type_](#-tree-type)
+				- [~~(바) 격자형~~](#-)
+		- [Section 04 정보 통신망의 종류](#section-04-)
+			- [(1) 근거리 통신망 _Local Area Network_](#1-local-area-network)
+			- [(2) 공중 통신망 _Public Network_](#2-public-network)
+				- [(가) 공중 통신망의 개요](#-)
+				- [(나) 공중 전화망과 공중 교환 데이터망](#-)
+				- [(다) 종합 정보 통신망 _ISDN: Integrated Service Digital Network_](#-isdn-integrated-service-digital-network)
+			- [(3) 이동·위성 통신망](#3-)
+				- [(나) 셀룰러 시스템](#-)
+				- [(다) IMT-2000](#-imt-2000)
+	- [제2부 근거리 통신망](#2-)
+		- [Section 01 LAN의 기술](#section-01-lan-)
+			- [(1) LAN의 개념](#1-lan-)
+			- [(3) OSI 표준 모델과 LAN 프로토콜](#3-osi-lan-)
+				- [(다) IEEE 802 표준](#-ieee-802-)
+				- [(라) LAN 표준](#-lan-)
+				- [(마) LAN 프로토콜](#-lan-)
+			- [(4) LAN 전송 매체](#4-lan-)
+				- [(가) 신호를 전송하는 방법](#-)
+				- [(나) 전송 매체의 종류 및 특성](#-)
+			- [(5) 매체 접근 제어 _Media Access Control_](#5-media-access-control)
+				- [(가) CSMA/CD _Carrier Sense Multiple Access/Collision Detect_](#-csmacd-carrier-sense-multiple-accesscollision-detect)
+				- [(나) CSMA/CA _Carrier Sense Multiple Access/Collision Avoidance_](#-csmaca-carrier-sense-multiple-accesscollision-avoidance)
+				- [(다) 토큰링 _Token ring_](#-token-ring)
+		- [Section 02 LAN의 종류](#section-02-lan-)
+			- [(1) 이더넷 _Ethernet_](#1-ethernet)
+
+## 라이선스 _License_
+```
+The MIT License (MIT)
+
+Copyright (c) 2016 Chalk
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
 ## 제I부 정보 통신의 개요
 ### Section 01 정보통신의 발달
 
@@ -278,3 +354,8 @@
 | **유니캐스트** _Unicast_ | 전송 → 모두 받음 → 자기 거 아니면 버림 | LAN에서 가장 많이 사용 |
 | **브로드캐스트** _Broadcast_ | 모두에게 전송 → 모두 무조건 받음 | MAC 주소 FFFF.FFFF.FFFF |
 | **멀티캐스트** _Multicast_ | 특정 그룹에게만 정보 전송 | 효율적, 트래픽 감소 |
+
+### Section 02 LAN의 종류
+
+#### (1) 이더넷 _Ethernet_
+이
