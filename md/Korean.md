@@ -2,16 +2,7 @@
 한국디지털미디어고등학교 15기 1학년 4반 박준영
 
 ## 목차 _Table of contents_
-<!-- TOC depthFrom:2 depthTo:8 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [목차 _Table of contents_](#목차-table-of-contents)
-- [라이선스 _License_](#라이선스-license)
-- [자음 체계도](#자음-체계도)
-- [모음 체계도](#모음-체계도)
-- [단어의 갈래](#단어의-갈래)
-- [어미의 갈래](#어미의-갈래)
-
-<!-- /TOC -->
 
 ## 라이선스 _License_
 ```
@@ -54,8 +45,8 @@ SOFTWARE.
     </thead>
     <tbody>
         <tr>
-            <td align="center" rowspan="3">안울림소리</td>
-            <td align="center">파열음</td>
+            <th align="center" rowspan="3">안울림소리</th>
+            <th align="center">파열음</th>
             <td align="center">ㅂㅃㅍ</td>
             <td align="center">ㄷㄸㅌ</td>
             <td align="center"></td>
@@ -63,7 +54,7 @@ SOFTWARE.
             <td align="center"></td>
         </tr>
         <tr>
-            <td align="center">파찰음</td>
+            <th align="center">파찰음</th>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center">ㅈㅉㅊ</td>
@@ -71,7 +62,7 @@ SOFTWARE.
             <td align="center"></td>
         </tr>
         <tr>
-            <td align="center">마찰음</td>
+            <th align="center">마찰음</th>
             <td align="center"></td>
             <td align="center">ㅅㅆ</td>
             <td align="center"></td>
@@ -79,8 +70,8 @@ SOFTWARE.
             <td align="center">ㅎ</td>
         </tr>
         <tr>
-            <td align="center" rowspan="2">울림소리</td>
-            <td align="center">비음</td>
+            <th align="center" rowspan="2">울림소리</th>
+            <th align="center">비음</th>
             <td align="center">ㅁ</td>
             <td align="center">ㄴ</td>
             <td align="center"></td>
@@ -88,7 +79,7 @@ SOFTWARE.
             <td align="center"></td>
         </tr>
         <tr>
-            <td align="center">유음</td>
+            <th align="center">유음</th>
             <td align="center"></td>
             <td align="center">ㄹ</td>
             <td align="center"></td>
@@ -109,13 +100,13 @@ SOFTWARE.
     <thead>
         <tr>
             <th align="center"></th>
-            <th style="text-align: right;">혀 최고점 위치 →</th>
+            <td style="text-align: right;">혀 최고점 위치 →</td>
             <th align="center" colspan="2">전설 모음</th>
             <th align="center" colspan="2">후설 모음</th>
         </tr>
         <tr>
-            <th style="text-align: left;">↓ 혀의 높이 ↓</th>
-            <th style="text-align: right;">입술 모양 →</th>
+            <td style="text-align: left;">↓ 혀의 높이 ↓</td>
+            <td style="text-align: right;">입술 모양 →</td>
             <th align="center">평순</th>
             <th align="center">원순</th>
             <th align="center">평순</th>
@@ -124,21 +115,21 @@ SOFTWARE.
     </thead>
     <tbody>
         <tr>
-            <td align="center" colspan="2">고모음</td>
+            <th align="center" colspan="2">고모음</th>
             <td align="center">ㅣ</td>
             <td align="center">ㅟ</td>
             <td align="center">ㅡ</td>
             <td align="center">ㅜ</td>
         </tr>
         <tr>
-            <td align="center" colspan="2">중모음</td>
+            <th align="center" colspan="2">중모음</th>
             <td align="center">ㅔ</td>
             <td align="center">ㅚ</td>
             <td align="center">ㅓ</td>
             <td align="center">ㅗ</td>
         </tr>
         <tr>
-            <td align="center" colspan="2">저모음</td>
+            <th align="center" colspan="2">저모음</th>
             <td align="center">ㅐ</td>
             <td align="center"></td>
             <td align="center">ㅏ</td>
@@ -167,54 +158,54 @@ SOFTWARE.
     </thead>
     <tbody>
         <tr>
-            <td align="center" rowspan="7">불변어</td>
-            <td align="center" rowspan="3">체언</td>
-            <td align="center">대명사</td>
+            <th align="center" rowspan="7">불변어</th>
+            <th align="center" rowspan="3">체언</th>
+            <th align="center">대명사</th>
             <td align="center">대상의 이름을 대신함</td>
             <td align="center" rowspan="3">문장에서 주로 주어·목적어·보어</td>
         </tr>
         <tr>
-            <td align="center">명사</td>
+            <th align="center">명사</th>
             <td align="center">대상의 구체적인 이름</td>
         </tr>
         <tr>
-            <td align="center">수사</td>
+            <th align="center">수사</th>
             <td align="center">사물의 수량·갯수</td>
         </tr>
         <tr>
-            <td align="center" rowspan="2">수식언</td>
-            <td align="center">관형사</td>
+            <th align="center" rowspan="2">수식언</th>
+            <th align="center">관형사</th>
             <td align="center">체언을 수식</td>
             <td align="center" rowspan="2">다른 문장 성분을 수식</td>
         </tr>
         <tr>
-            <td align="center">부사</td>
+            <th align="center">부사</th>
             <td align="center">용언을 수식</td>
         </tr>
         <tr>
-            <td align="center">독립언</td>
-            <td align="center">감탄사</td>
+            <th align="center">독립언</th>
+            <th align="center">감탄사</th>
             <td align="center">화자의 감정·느낌 표현</td>
             <td align="center">문장에서 독립적으로 사용</td>
         </tr>
         <tr>
-            <td align="center" rowspan="2">관계언</td>
-            <td align="center">조사</td>
+            <th align="center" rowspan="2">관계언</th>
+            <th align="center">조사</th>
             <td align="center" rowspan="2">자립성 있는 말 뒤에 붙어<br>다른 말과의 문법적 관계 표시</td>
             <td align="center" rowspan="2">문장 성분 사이의 관계</td>
         </tr>
         <tr>
-            <td align="center" rowspan="3">가변어</td>
-            <td align="center">(서술격 조사)</td>
+            <th align="center" rowspan="3">가변어</th>
+            <th align="center">(서술격 조사)</th>
         </tr>
         <tr>
-            <td align="center" rowspan="2">용언</td>
-            <td align="center">동사</td>
+            <th align="center" rowspan="2">용언</th>
+            <th align="center">동사</th>
             <td align="center">사물·사람의 동작</td>
             <td align="center" rowspan="2">사물·사람의 움직임이나 상태</td>
         </tr>
         <tr>
-            <td align="center">형용사</td>
+            <th align="center">형용사</th>
             <td align="center">사물·사람의 성질·상태</td>
         </tr>
     </tbody>
