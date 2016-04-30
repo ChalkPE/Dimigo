@@ -227,20 +227,20 @@ SOFTWARE.
         <tr>
             <th align="center" rowspan="4">어미</th>
             <th align="center" colspan="2">선어말어미</th>
-            <td align="left">어말 어미의 앞자리에 들어가는 어미; 시간 표현·높임 표현<br>ex) `-는-` · `-었-` · `-겠-` · `-더-` · `-시-`</td>
+            <td align="left">어말 어미의 앞자리에 들어가는 어미; 시간 표현·높임 표현<br>ex) <code>-는-</code> · <code>-었-</code> · <code>-겠-</code> · <code>-더-</code> · <code>-시-</code></td>
         </tr>
         <tr>
             <th align="center" rowspan="3">어말 어미</th>
             <th align="center">종결 어미</th>
-            <td align="left">문장을 끝맺어 주는 기능을 하는 어미<br>ex) 평서형 `-다` · 의문형 `-냐` · 감탄형 `-구나` · 명령형 `-아라` · 청유형 `-자`</td>
+            <td align="left">문장을 끝맺어 주는 기능을 하는 어미<br>ex) 평서형 <code>-다</code> · 의문형 <code>-냐</code> · 감탄형 <code>-구나</code> · 명령형 <code>-아라</code> · 청유형 <code>-자</code></td>
         </tr>
         <tr>
             <th align="center">연결 어미</th>
-            <td align="left">앞 문장과 뒷 문장을 연결하는 기능을 하는 어미<br>ex) 대등 `-고 -며` · 종속 `-니 -어서 -게` · 보조 `-아 -게 -지 -고`</td>
+            <td align="left">앞 문장과 뒷 문장을 연결하는 기능을 하는 어미<br>ex) 대등 <code>-고 -며</code> · 종속 <code>-니 -어서 -게</code> · 보조 <code>-아 -게 -지 -고</code></td>
         </tr>
         <tr>
             <th align="center">전성 어미</th>
-            <td align="left">용언의 서술 기능을 다른 기능으로 바꾸어 주는 어미<br>ex) 명사 `-(으)ㅁ -기` · 관형사 `-(으)ㄴ -는 -(으)ㄹ -던` · 부사 `-게 -도록 -(아)서`</td>
+            <td align="left">용언의 서술 기능을 다른 기능으로 바꾸어 주는 어미<br>ex) 명사 <code>-(으)ㅁ -기</code> · 관형사 <code>-(으)ㄴ -는 -(으)ㄹ -던</code> · 부사 <code>-게 -도록 -(아)서</code></td>
         </tr>
     </tbody>
 </table>
