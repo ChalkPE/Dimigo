@@ -2,10 +2,12 @@
 한국디지털미디어고등학교 15기 1학년 4반 박준영
 
 ## 목차 _Table of contents_
-<!-- TOC depthFrom:2 depthTo:8 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:8 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [목차 _Table of contents_](#목차-table-of-contents)
 - [라이선스 _License_](#라이선스-license)
+- [[3] 선사시대, 청동기, 초기철기시대](#3-선사시대-청동기-초기철기시대)
+	- [가. 구석기 시대와 신석기 시대](#가-구석기-시대와-신석기-시대)
 
 <!-- /TOC -->
 
@@ -33,3 +35,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+## [3] 선사시대, 청동기, 초기철기시대
+### 가. 구석기 시대와 신석기 시대
+| ? | 구석기: 70만 년 전 | 신석기 1만 년 전 |
+| :-----: | :-----: | :-----: |
+| 도구 | 뗀석기, 뼈도구 | 뗀석기 + 간석기<br>빗살무늬토기<br>가락바퀴, 바늘: 옷, 그물 제작 |
+| 경제 | 사냥·수렵, 채집, 어로 | 수렵·채집·어로 + 농경·목축 |
+| 생활 | 이동생활, 동굴·막집 거주, 무리생활 | 이동·정착 생활, 움집 거주, 부족 |
+| 사상 | 매장 풍습 | 애니미즘: 자연물에 영혼, 토테미즘: 동식물<br> 예술품 제작: 조개껍데기 가면, 치레걸이 |
