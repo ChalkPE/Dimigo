@@ -2,7 +2,15 @@
 한국디지털미디어고등학교 15기 1학년 4반 박준영
 
 ## 목차 _Table of contents_
+<!-- TOC depthFrom:2 depthTo:8 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [목차 _Table of contents_](#목차-table-of-contents)
+- [라이선스 _License_](#라이선스-license)
+- [자음 체계도](#자음-체계도)
+- [모음 체계도](#모음-체계도)
+- [단어의 갈래](#단어의-갈래)
+
+<!-- /TOC -->
 
 ## 라이선스 _License_
 ```
@@ -45,49 +53,55 @@ SOFTWARE.
     </thead>
     <tbody>
         <tr>
-            <td align="center" rowspan="3">**안울림소리**</td>
-            <td align="center">**파열음**</td>
-            <td align="center">**ㅂㅃㅍ**</td>
-            <td align="center">**ㄷㄸㅌ**</td>
+            <td align="center" rowspan="3">안울림소리</td>
+            <td align="center">파열음</td>
+            <td align="center">ㅂㅃㅍ</td>
+            <td align="center">ㄷㄸㅌ</td>
             <td align="center"></td>
-            <td align="center">**ㄱㄲㅋ**</td>
-            <td align="center"></td>
-        </tr>
-        <tr>
-            <td align="center">**파찰음**</td>
-            <td align="center"></td>
-            <td align="center"></td>
-            <td align="center">**ㅈㅉㅊ**</td>
-            <td align="center"></td>
+            <td align="center">ㄱㄲㅋ</td>
             <td align="center"></td>
         </tr>
         <tr>
-            <td align="center">**마찰음**</td>
-            <td align="center"></td>
-            <td align="center">**ㅅㅆ**</td>
+            <td align="center">파찰음</td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">**ㅎ**</td>
-        </tr>
-        <tr>
-            <td align="center" rowspan="2">**울림소리**</td>
-            <td align="center">**비음**</td>
-            <td align="center">**ㅁ**</td>
-            <td align="center">**ㄴ**</td>
+            <td align="center">ㅈㅉㅊ</td>
             <td align="center"></td>
-            <td align="center">**ㅇ**</td>
             <td align="center"></td>
         </tr>
         <tr>
-            <td align="center">**유음**</td>
+            <td align="center">마찰음</td>
             <td align="center"></td>
-            <td align="center">**ㄹ**</td>
+            <td align="center">ㅅㅆ</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center">ㅎ</td>
+        </tr>
+        <tr>
+            <td align="center" rowspan="2">울림소리</td>
+            <td align="center">비음</td>
+            <td align="center">ㅁ</td>
+            <td align="center">ㄴ</td>
+            <td align="center"></td>
+            <td align="center">ㅇ</td>
+            <td align="center"></td>
+        </tr>
+        <tr>
+            <td align="center">유음</td>
+            <td align="center"></td>
+            <td align="center">ㄹ</td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
         </tr>
     </tbody>
 </table>
+
+- **파열음**: 허파에서 나오는 소리를 막았다 터뜨림
+- **파찰음**: 일단 소리를 막았다 서서히 터뜨림
+- **마찰음**: 통로를 좁혀 그 사이로 공기를 마찰
+- **비음**: 입 안을 막고 코로 소리냄
+- **유음**: 혀끝을 윗임몸에 가볍게 대었다가 떼거나, 혀끝을 잇몸에 댄 채 공기를 양옆으로 흘려 소리냄
 
 ## 모음 체계도
 <table>
@@ -109,25 +123,83 @@ SOFTWARE.
     </thead>
     <tbody>
         <tr>
-            <td align="center" colspan="2">**고모음**</td>
-            <td align="center">**ㅣ**</td>
-            <td align="center">**ㅟ**</td>
-            <td align="center">**ㅡ**</td>
-            <td align="center">**ㅜ**</td>
+            <td align="center" colspan="2">고모음</td>
+            <td align="center">ㅣ</td>
+            <td align="center">ㅟ</td>
+            <td align="center">ㅡ</td>
+            <td align="center">ㅜ</td>
         </tr>
         <tr>
-            <td align="center" colspan="2">**중모음**</td>
-            <td align="center">**ㅔ**</td>
-            <td align="center">**ㅚ**</td>
-            <td align="center">**ㅓ**</td>
-            <td align="center">**ㅗ**</td>
+            <td align="center" colspan="2">중모음</td>
+            <td align="center">ㅔ</td>
+            <td align="center">ㅚ</td>
+            <td align="center">ㅓ</td>
+            <td align="center">ㅗ</td>
         </tr>
         <tr>
-            <td align="center" colspan="2">**저모음**</td>
-            <td align="center">**ㅐ**</td>
+            <td align="center" colspan="2">저모음</td>
+            <td align="center">ㅐ</td>
             <td align="center"></td>
-            <td align="center">**ㅏ**</td>
+            <td align="center">ㅏ</td>
             <td align="center"></td>
+        </tr>
+    </tbody>
+</table>
+
+- **이중 모음**: `ㅑ` · `ㅕ` · `ㅛ` · `ㅠ` · `ㅒ` · `ㅖ` · `ㅘ` · `ㅙ` · `ㅝ` · `ㅞ` · `ㅢ`
+
+
+- **평순**: 입술을 평평하게 펴서 발음
+- **원순**: 입술을 동그랗게 모아 발음
+- **전설**: 발음할 때 혀의 위치 앞
+- **후설**: 발음할 때 혀의 위치 뒤
+
+## 단어의 갈래
+<table>
+    <thead>
+        <tr>
+            <th align="center">형태</th>
+            <th align="center">기능</th>
+            <th align="center">의미</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center" rowspan="7">불변어</td>
+            <td align="center" rowspan="3">체언</td>
+            <td align="center">대명사</td>
+        </tr>
+        <tr>
+            <td align="center">명사</td>
+        </tr>
+        <tr>
+            <td align="center">수사</td>
+        </tr>
+        <tr>
+            <td align="center" rowspan="2">수식언</td>
+            <td align="center">관형사</td>
+        </tr>
+        <tr>
+            <td align="center">부사</td>
+        </tr>
+        <tr>
+            <td align="center">독립언</td>
+            <td align="center">감탄사</td>
+        </tr>
+        <tr>
+            <td align="center" rowspan="2">관계언</td>
+            <td align="center">조사</td>
+        </tr>
+        <tr>
+            <td align="center" rowspan="3">가변어</td>
+            <td align="center">(서술격 조사)</td>
+        </tr>
+        <tr>
+            <td align="center" rowspan="2">용언</td>
+            <td align="center">동사</td>
+        </tr>
+        <tr>
+            <td align="center">형용사</td>
         </tr>
     </tbody>
 </table>
