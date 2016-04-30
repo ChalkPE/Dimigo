@@ -2,7 +2,16 @@
 한국디지털미디어고등학교 15기 1학년 4반 박준영
 
 ## 목차 _Table of contents_
+<!-- TOC depthFrom:2 depthTo:8 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [목차 _Table of contents_](#목차-table-of-contents)
+- [라이선스 _License_](#라이선스-license)
+- [자음 체계도](#자음-체계도)
+- [모음 체계도](#모음-체계도)
+- [단어의 갈래](#단어의-갈래)
+- [어미의 갈래](#어미의-갈래)
+
+<!-- /TOC -->
 
 ## 라이선스 _License_
 ```
@@ -207,6 +216,30 @@ SOFTWARE.
         <tr>
             <td align="center">형용사</td>
             <td align="center">사물·사람의 성질·상태</td>
+        </tr>
+    </tbody>
+</table>
+
+## 어미의 갈래
+<table>
+    <tbody>
+        <tr>
+            <th align="center" rowspan="4">어미</th>
+            <th align="center" colspan="2">선어말어미</th>
+            <td align="left">어말 어미의 앞자리에 들어가는 어미; 시간 표현·높임 표현<br>ex) `-는-` · `-었-` · `-겠-` · `-더-` · `-시-`</td>
+        </tr>
+        <tr>
+            <th align="center" rowspan="3">어말 어미</th>
+            <th align="center">종결 어미</th>
+            <td align="left">문장을 끝맺어 주는 기능을 하는 어미<br>ex) 평서형 `-다` · 의문형 `-냐` · 감탄형 `-구나` · 명령형 `-아라` · 청유형 `-자`</td>
+        </tr>
+        <tr>
+            <th align="center">연결 어미</th>
+            <td align="left">앞 문장과 뒷 문장을 연결하는 기능을 하는 어미<br>ex) 대등 `-고 -며` · 종속 `-니 -어서 -게` · 보조 `-아 -게 -지 -고`</td>
+        </tr>
+        <tr>
+            <th align="center">전성 어미</th>
+            <td align="left">용언의 서술 기능을 다른 기능으로 바꾸어 주는 어미<br>ex) 명사 `-(으)ㅁ -기` · 관형사 `-(으)ㄴ -는 -(으)ㄹ -던` · 부사 `-게 -도록 -(아)서`</td>
         </tr>
     </tbody>
 </table>
