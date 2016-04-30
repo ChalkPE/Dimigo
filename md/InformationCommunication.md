@@ -2,7 +2,7 @@
 한국디지털미디어고등학교 15기 1학년 4반 박준영
 
 ## 목차 _Table of contents_
-<!-- TOC depthFrom:2 depthTo:8 withLinks:1 updateOnSave:0 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:8 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [목차 _Table of contents_](#목차-table-of-contents)
 - [라이선스 _License_](#라이선스-license)
@@ -69,6 +69,11 @@
 			- [(다) 무선 LAN의 장비 구성](#다-무선-lan의-장비-구성)
 			- [(라) 무선 LAN의 구조](#라-무선-lan의-구조)
 	- [Section 03 LAN의 구성 요소](#section-03-lan의-구성-요소)
+		- [(1) 하드웨어](#1-하드웨어)
+			- [(가) LAN 카드 _LAN Card_](#가-lan-카드-lan-card)
+			- [(나) 허브 _Hub_](#나-허브-hub)
+			- [(다) 스위치 _Switch_](#다-스위치-switch)
+			- [(라) 브리지 _Bridge_](#라-브리지-bridge)
 
 <!-- /TOC -->
 
