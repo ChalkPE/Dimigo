@@ -11,11 +11,13 @@ function start(callback){
 
 function makeCell(text, isKey){
     return jQuery('<td>').text(text.toLowerCase()).css({
-        'padding-top': '30px',
+        'padding-top': '15px',
+        'padding-bottom': '15px',
         'padding-left': isKey ? '80px' : '20px',
 
         'font-size': '20px',
-        'font-family': 'Ubuntu, "나눔고딕"',
+        'line-height': '20px',
+        'font-family': 'Ubuntu, "HCR Dotum"',
         'font-weight': isKey ? 'bold' : 'normal'
     });
 }
