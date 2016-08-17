@@ -51,3 +51,7 @@ main table tbody tr:not(:last-child) td {
 main table tbody tr td.hidden {
     visibility: hidden;
 }
+
+main table tbody tr td i.mdi {
+    font-size: 24px;
+}
