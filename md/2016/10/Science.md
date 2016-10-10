@@ -19,44 +19,44 @@
 
 <table>
     <thead><tr>
-        <th style="text-align: center">구분</th>
-        <th style="text-align: center">설명</th>
-        <th style="text-align: center">비고</th>
+        <th align="center">구분</th>
+        <th align="center">설명</th>
+        <th align="center">비고</th>
     </tr></thead>
     <tbody>
         <tr>
-            <td style="text-align: center">성운설</td>
-            <td style="text-align: center">
+            <td align="center">성운설</td>
+            <td align="center">
                 가스 물질로 이루어진 <strong>성운</strong> 수축 → 중심에 <strong>태양</strong> 형성<br>
                 → 이후 주변에 <strong>남아 있던</strong> 물질이 뭉쳐져 <strong>행성</strong> 형성
             </td>
-            <td style="text-align: center">오늘날 태양의 <strong>느린 자전</strong> 설명 불가</td>
+            <td align="center">오늘날 태양의 <strong>느린 자전</strong> 설명 불가</td>
         </tr>
         <tr>
-            <td style="text-align: center">와동설</td>
-            <td style="text-align: center">
+            <td align="center">와동설</td>
+            <td align="center">
                 우주를 채우고 있던 가상 물질 <strong>에테르</strong> 사이를 태양이 지나감<br>
                 → <strong>와류</strong>로 태양 물질 일부 떨어져 나와 뭉쳐져 <strong>행성</strong> 형성
             </td>
-            <td style="text-align: center" rowspan="2">
+            <td align="center" rowspan="2">
                 행성으로 성장하기 전에 <strong>증발</strong><br>
                 → <strong>행성</strong>으로 만들어지기 어려움
             </td>
         </tr>
         <tr>
-            <td style="text-align: center">조석설</td>
-            <td style="text-align: center">
+            <td align="center">조석설</td>
+            <td align="center">
                 태양 근처로 <strong>다른 별</strong> 지나감 → 서로 <strong>인력</strong> 작용<br>
                 → 태양 물질 일부 떨어져 나와 뭉쳐져 <strong>행성</strong> 형성
             </td>
         </tr>
         <tr>
-            <td style="text-align: center"><strong>미행성<br>응집설</strong></td>
-            <td style="text-align: center">
+            <td align="center"><strong>미행성<br>응집설</strong></td>
+            <td align="center">
                 <strong>성운</strong>이 <strong>회전</strong>하면서 수축 → <strong>태양</strong>과 <strong>원반</strong> 형성<br>
                 → 이후 원반을 이루는 물질이 뭉쳐져 <strong>행성</strong> 형성
             </td>
-            <td style="text-align: center">
+            <td align="center">
                 나이의 유사성<br>
                 태양 자전축 = 행성들의 공전축
             </td>
@@ -91,3 +91,12 @@
 | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **지구형 행성** | 小 | 短 | 短 | **高** | 少 | 無 | 小 |
 | **목성형 행성** | **大** | **長** | **長** | 低 | **多** | **有** | **大** |
+
+### 행성의 대기 성분이 서로 다른 까닭은 무엇일까?
+> **탈출 속도**: 어떤 물체가 천체의 중력을 벗어나 우주 공간으로 날아갈 수 있는 속도 (지구: 약 11.2 ㎞/s)  
+> **역학적 에너지 보존 법칙**: 물체가 중력만을 받아 운동할 때, 위치 에너지와 운동 에너지는 서로 전환되며, 합이 항상 일정하게 보존됨
+
+#### 물체의 탈출 속도 구하기
+만유인력을 고려하여 위치 에너지 ![Ep](https://latex.codecogs.com/png.latex?%5Cinline%20E_p) (기준이 무한대일 때)를 구하면 ![Ep=-GMm/r](https://latex.codecogs.com/png.latex?%5Cinline%20%5Clarge%20E_p%20%3D%20-%5Cfrac%7BGMm%7D%7Br%7D) 이다.
+
+<!-- TODO -->
