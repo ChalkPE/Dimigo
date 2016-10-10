@@ -1,20 +1,21 @@
-# 고1 과학 2학기 1차 지필고사 요약
-한국디지털미디어고등학교 15기 1학년 4반 박준영
+# 2. 태양계와 지구
+* 고1 과학 2학기 1차 지필고사 요약  
+* 한국디지털미디어고등학교 15기 1학년 4반 박준영
+* Licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) ([CC0 1.0 보편적](https://creativecommons.org/publicdomain/zero/1.0/deed.ko))
 
-## 2. 태양계와 지구
+## 2-1 태양계의 형성
 
-### 2-1 태양계의 형성
+### 태양계는 어떻게 형성되었을까?
 
-#### 태양계는 어떻게 형성되었을까?
+#### 만유인력의 법칙
 
-###### 만유인력의 법칙
+> ![F=Gm₁m₂/r²](https://latex.codecogs.com/png.latex?%5Clarge%20F%3D%5Cfrac%7BGm_1m_2%7D%7Br%5E2%7D)
 
-![중력](http://www.sciweavers.org/tex2img.php?bc=White&fc=Black&im=png&fs=18&ff=txfonts&edit=0&eq=F%3D%5Cfrac%7BGm_1m_2%7D%7Br%5E2%7D%20)
-* ![G](http://www.sciweavers.org/tex2img.php?bc=White&fc=Black&im=png&fs=18&ff=txfonts&edit=0&eq=G): 비례상수
-* ![m](http://www.sciweavers.org/tex2img.php?bc=White&fc=Black&im=png&fs=18&ff=txfonts&edit=0&eq=m_1,m_2): 물체의 질량
-* ![r](http://www.sciweavers.org/tex2img.php?bc=White&fc=Black&im=png&fs=18&ff=txfonts&edit=0&eq=r): 두 물체 사이의 거리
+* ![G](https://latex.codecogs.com/png.latex?G): 비례상수
+* ![m₁,m₂](https://latex.codecogs.com/png.latex?m_1%2Cm_2): 두 물체의 질량
+* ![r](https://latex.codecogs.com/png.latex?r): 두 물체 사이의 거리
 
-###### 태양계 형성에 대한 가설들
+#### 태양계 형성에 대한 가설들
 
 <table>
     <thead><tr>
@@ -63,7 +64,7 @@
     </tbody>
 </table>
 
-###### 태양계 형성 과정: 미행성 응집설
+#### 태양계 형성 과정: 미행성 응집설
 1. 태양계 성운의 시작
     - 약 46억 년 전, 우리 은하 나선팔의 거대 성운
     - 주변에 있던 초신성 폭발 → 충격파에 의해 **수축**
