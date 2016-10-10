@@ -78,5 +78,5 @@
 ### 태양계 행성들은 어떤 특징을 가지고 있을까?
 
 #### 역학적 에너지
-> ![Ep=mgh](https://latex.codecogs.com/png.latex?%5Clarge%20E_p%3Dmgh) (위치 에너지), ![Ek=½mv²](https://latex.codecogs.com/png.latex?%5Clarge%20E_k%3D%5Cfrac%7B1%7D%7B2%7Dmv%5E2) (운동 에너지, ![m](https://latex.codecogs.com/png.latex?m): 질량, ![v](https://latex.codecogs.com/png.latex?v): 속도)  
+> ![Ep=mgh](https://latex.codecogs.com/png.latex?%5Cinline%20%5Clarge%20E_p%3Dmgh) (위치 에너지), ![Ek=½mv²](https://latex.codecogs.com/png.latex?%5Cinline%20%5Clarge%20E_k%3D%5Cfrac%7B1%7D%7B2%7Dmv%5E2) (운동 에너지, ![m](https://latex.codecogs.com/png.latex?m): 질량, ![v](https://latex.codecogs.com/png.latex?v): 속도)  
 > **위치 에너지**: 물체가 지금 위치에서 기준점까지 가는 사이에 보존력(중력·전기력 등)이 물체에 하는 일
