@@ -13,11 +13,11 @@
 
 이다. 지구에서 멀리 떨어진 곳에서 속도 ![v](https://latex.codecogs.com/png.latex?%5Cinline%20v)로 운동하고 있는 물체의 역학적 에너지의 크기 ![E](https://latex.codecogs.com/png.latex?%5Cinline%20E)는
 
-> ![E=Ek+Ep=½mv²-GMm/r=](https://latex.codecogs.com/png.latex?%5Cinline%20%5Clarge%20E%3DE_k&plus;E_p%3D%5Cfrac%7B1%7D%7B2%7Dmv%5E2-%5Cfrac%7BGMm%7D%7Br%7D%3D) 일정
+> ![E=Ek+Ep=½mv²-GMm/r=일정](https://latex.codecogs.com/png.latex?%5Clarge%20E%3DE_k&plus;E_p%3D%5Cfrac%7B1%7D%7B2%7Dmv%5E2-%5Cfrac%7BGMm%7D%7Br%7D%3D%5Ctextrm%7Bconstant%7D)
 
 이다. 이를 이용하여 지표면에 닿을듯이 지구 둘레를 원운동하는 물체의 역학적 에너지 ![E](https://latex.codecogs.com/png.latex?%5Cinline%20E)를 구하면
 
-> ![E=Ek+Ep=½mv²-GMm/R=](https://latex.codecogs.com/png.latex?%5Cinline%20%5Clarge%20E%3DE_k&plus;E_p%3D%5Cfrac%7B1%7D%7B2%7Dmv%5E2-%5Cfrac%7BGMm%7D%7BR%7D%3D) 일정
+> ![E=Ek+Ep=½mv²-GMm/R=일정](https://latex.codecogs.com/png.latex?%5Clarge%20E%3DE_k&plus;E_p%3D%5Cfrac%7B1%7D%7B2%7Dmv%5E2-%5Cfrac%7BGMm%7D%7BR%7D%3D%5Ctextrm%7Bconstant%7D)
 
 * ![R](https://latex.codecogs.com/png.latex?%5Cinline%20R): 지구의 반지름
 
