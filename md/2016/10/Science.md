@@ -84,13 +84,13 @@
 #### 지구형 행성 vs 목성형 행성
 | 구분 | 해당 행성 | 중심핵 | 구성 물질 | 대기 |
 | :------: | :-------: |:-------: | :-------: | :-------: |
-| **지구형 행성** | 수성, 금성, **지구**, 화성 | 철, 니켈 | 규산염 광석 | 이산화탄소, 질소 |
+| **지구형 행성** | 수성, 금성, **지구**, 화성 | 철, 니켈 | 규산염 광석 | 산소, 질소, 이산화탄소 |
 | **목성형 행성** | **목성**, 토성, 천왕성, 해왕성 | 물, 메테인, 암모니아 | 수소, 헬륨 | 수소, 헬륨 |
 
-| 구분 | 질량 | 지름 | 공전 주기 | 밀도 | 위성 수 | 고리 | 편평도 |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **지구형 행성** | 小 | 短 | 短 | **高** | 少 | 無 | 小 |
-| **목성형 행성** | **大** | **長** | **長** | 低 | **多** | **有** | **大** |
+| 구분 | 질량 | 지름 | 평균 온도 | 공전 주기 | 밀도 | 위성 수 | 고리 | 편평도 |
+| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **지구형 행성** | 小 | 短 | **高** | 短 | **高** | 少 | 無 | 小 |
+| **목성형 행성** | **大** | **長** | 低 | **長** | 低 | **多** | **有** | **大** |
 
 ### 3. 행성의 대기 성분이 서로 다른 까닭은 무엇일까?
 > **탈출 속도**: 어떤 물체가 천체의 중력을 벗어나 우주 공간으로 날아갈 수 있는 속도  
@@ -99,34 +99,15 @@
 > ![Ek(](https://latex.codecogs.com/png.latex?%5Cinline%20E_k%28)지표면![)>=Ep(](https://latex.codecogs.com/png.latex?%5Cinline%20%29%5Cgeq%20E_p%28)탈출![)](https://latex.codecogs.com/png.latex?%5Cinline%20%29) → 지구: 약 11.2 ㎞/s
 
 #### 물체의 탈출 속도 구하기
-만유인력을 고려하여 위치 에너지 ![Ep](https://latex.codecogs.com/png.latex?%5Cinline%20E_p)(기준이 무한대일 때)를 구하면
-
-> ![Ep=-GMm/r](https://latex.codecogs.com/png.latex?%5Clarge%20E_p%3D-%5Cfrac%7BGMm%7D%7Br%7D)
-
-* ![G](https://latex.codecogs.com/png.latex?%5Cinline%20G): 만유인력 상수
-* ![M](https://latex.codecogs.com/png.latex?%5Cinline%20M%2Cm): 지구와 물체의 질량
-* ![r](https://latex.codecogs.com/png.latex?%5Cinline%20r): 지구와 물체 사이의 거리
-* ![(-)](https://latex.codecogs.com/png.latex?%5Cinline%20%28-%29): 물체가 지구 쪽으로 끌어당겨짐
-
-지구에서 멀리 떨어진 곳에서 속도 ![v](https://latex.codecogs.com/png.latex?%5Cinline%20v)로 운동하고 있는 물체의 역학적 에너지의 크기 ![E](https://latex.codecogs.com/png.latex?%5Cinline%20E)는
-
-> ![E=Ek+Ep=½mv²-GMm/r=](https://latex.codecogs.com/png.latex?%5Cinline%20%5Clarge%20E%3DE_k&plus;E_p%3D%5Cfrac%7B1%7D%7B2%7Dmv%5E2-%5Cfrac%7BGMm%7D%7Br%7D%3D) 일정
-
-이다. 이를 이용하여 지표면에 닿을듯이 지구 둘레를 원운동하는 물체의 역학적 에너지 ![E](https://latex.codecogs.com/png.latex?%5Cinline%20E)를 구하면
-
-> ![E=Ek+Ep=½mv²-GMm/R=](https://latex.codecogs.com/png.latex?%5Cinline%20%5Clarge%20E%3DE_k&plus;E_p%3D%5Cfrac%7B1%7D%7B2%7Dmv%5E2-%5Cfrac%7BGMm%7D%7BR%7D%3D) 일정
-
-* ![R](https://latex.codecogs.com/png.latex?%5Cinline%20R): 지구의 반지름
-
-물체가 지구의 중력을 벗어나려는 운동을 하기 위해서는 역학적 에너지 보존 법칙에 따라 물체가 지표면에 있을 때의 운동 에너지와 물체가 탈출할 때의 위치 에너지가 서로 같으면 된다. 따라서 물체가 행성의 중력을 벗어나 탈출하려고 하는 순간에서의 에너지를 비교해 보면
-
-> ![½mv²=GMm/R](https://latex.codecogs.com/png.latex?%5Clarge%20%5Cfrac%7B1%7D%7B2%7Dmv%5E2%3D%5Cfrac%7BGMm%7D%7BR%7D)
-
-으로 나타낼 수 있다. 이 식을 이용하여 지구의 중력을 벗어나기 위한 물체의 탈출 속도 ![v](https://latex.codecogs.com/png.latex?%5Cinline%20v)를 계산하면,
-
 > ![v=√(2GM/R)](https://latex.codecogs.com/png.latex?%5Clarge%20v%3D%5Csqrt%7B%5Cfrac%7B2GM%7D%7BR%7D%7D)
 
-이다. 따라서 탈출 속도는 행성이 질량이 클수록, 행성의 반지름이 작을수록 커진다.
+* ![G](https://latex.codecogs.com/png.latex?%5Cinline%20G): 만유인력 상수
+* ![M](https://latex.codecogs.com/png.latex?%5Cinline%20M): 지구의 질량
+* ![R](https://latex.codecogs.com/png.latex?%5Cinline%20R): 지구의 반지름
+* ![v](https://latex.codecogs.com/png.latex?%5Cinline%20v): 지구의 중력을 벗어나기 위한 물체의 탈출 속도
+
+탈출 속도는 행성이 질량이 클수록, 행성의 반지름이 작을수록 커짐 [(증명)](https://github.com/ChalkPE/Dimigo/blob/master/md/2016/10/EscapeVelocity.md)
+
 
 #### 기체 분자의 구조
 
@@ -147,8 +128,12 @@
 
 #### 기체 분자의 운동
 > **분자랑**: 분자에 포함된 양성자와 중성자의 수를 합한 값  
-> 분자량이 **작을수록** 속도가 **크고**, 분자량이 **클수록** 속도가 **작음**.
 
 * **가벼운 원소**로 구성된 **대기**를 가지려면 행성이 **중력**이 **커야 함**
+* **기체** 분자의 **운동 속도**는 **분자량**이 **작을수록** 크고 **온도**가 **높을수록** 큼
+* 기체 분자의 **분자량**, 행성의 **표면 온도**, 행성의 **탈출 속도** → 행성의 **대기층 성분** 결정
+
+## 2-2 태양계의 운동
+
 
 <!-- TODO -->
