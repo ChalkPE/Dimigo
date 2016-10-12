@@ -1,9 +1,8 @@
-# EscapeVelocity
+# [Science](https://github.com/ChalkPE/Dimigo/blob/master/md/2016/10/Science.md): EscapeVelocity
 * 한국디지털미디어고등학교 15기 1학년 4반 박준영
 * Licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) ([CC0 1.0 보편적](https://creativecommons.org/publicdomain/zero/1.0/deed.ko))
 
 ## 물체의 탈출 속도 구하기
-
 만유인력을 고려하여 위치 에너지 ![Ep](https://latex.codecogs.com/png.latex?%5Cinline%20E_p)(기준이 무한대일 때)를 구하면
 
 > ![Ep=-GMm/r](https://latex.codecogs.com/png.latex?%5Clarge%20E_p%3D-%5Cfrac%7BGMm%7D%7Br%7D)
